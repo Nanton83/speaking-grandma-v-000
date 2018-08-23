@@ -5,7 +5,7 @@ if string.upcase == "I LOVE YOU GRANDMA!"
 elsif string.upcase
 "NO, NOT SINCE 1938!"
 else
-  
+  "HUH?! SPEAK UP, SONNY!"
 end
 end
 # Whatever you say to grandma, she should respond with
